@@ -1,0 +1,3 @@
+This repository demonstrates a subtle bug related to the `continue` statement in Java. The provided code snippet showcases a situation where the `continue` statement's use might be misinterpreted, particularly in cases where the loop counter is not updated unconditionally.
+
+The original code exhibits unexpected behavior. The solution focuses on providing a clear and reliable fix for this issue, ensuring predictable program execution.  Note that this type of bug can be difficult to identify in larger codebases, especially when dealing with complex logic within loops.
